@@ -1,0 +1,27 @@
+<head>
+		<meta charset = "utf-8">
+	
+		<link rel = "stylesheet" href = "main.css"/>
+		
+	</head>
+	
+	<script>
+		
+		var x = [-1, -5, 10, 5, 3.52, 50, 1, 100];
+		
+		x.sort (function(a,b){return b-a});
+		
+		document.write(x);
+		
+	</script>
+	
+	
+	<body>
+	
+	
+	</body>
+
+
+
+
+</html>
